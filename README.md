@@ -45,7 +45,7 @@ bots that have been selected by the user.
 
 `BotCard` and `BotSpecs` are presentational components that have been provided
 for you that will render out information about an individual bot formatted for a
-list view and for a full view, respectively. They are pre-styled, and it is your
+list view and for a full view, respectively. They are pre-styled, and it is your 
 responsibility to get the data into them.
 
 All of the code to style the page has been written for you, meaning that you
